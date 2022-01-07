@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack development
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on mobile development
-- 📫 How to reach me ...
+- 📫 Reach me by mail 
 
 <!---
 cadam68/cadam68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
