@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cadam68
-- 👀 I’m interested in MERN Stack development
-- 🌱 I’m currently learning node
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently focussing spring boot & react
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 Reach me by mail 
 
